@@ -1,0 +1,8 @@
+
+1743838628451 : POST @ /api/users
+1743838682026 : POST @ /api/users
+1743838691701 : GET @ /api/users
+1743838695069 : GET @ /api/users/1005
+1743838721676 : PATCH @ /api/users/1005
+1743839771515 : POST @ /api/users
+1743845834604 : POST @ /api/users
